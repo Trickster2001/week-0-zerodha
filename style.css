@@ -22,6 +22,7 @@ html, body {
   align-items: center;
   /* padding: 20px 0; */
   height: 60px;
+  box-shadow: 1px 1px;
 }
 
 .left {
